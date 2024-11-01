@@ -1,0 +1,27 @@
+{
+  "name": "my-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@next/env": "^15.0.2",
+    "bootstrap": "^5.3.3",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.3",
+    "next": "15.0.2",
+    "nodemailer": "^6.9.16",
+    "react": "19.0.0-rc-02c0e824-20241028",
+    "react-dom": "19.0.0-rc-02c0e824-20241028",
+    "sweetalert2": "^11.14.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "15.0.2"
+  }
+}
